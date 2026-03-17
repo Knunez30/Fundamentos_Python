@@ -1,14 +1,14 @@
 [
   {
-    "carnet": 115210169,
-    "nombre": "Andrés Mena Abarca",
-    "edad": 33,
+    "carnet": 117002159511,
+    "nombre": "Kevin Nuñez Jaimes",
+    "edad": 24,
     "genero": "M",
-    "provincia": "San José",
-    "canton": "San José",
+    "provincia": "Heredia",
+    "canton": "Heredia",
     "visitas": 20,
     "enfermedad": "estrés",
-    "medicamento": "café",
+    "medicamento": "futból",
     "activo": true
   },
   {
