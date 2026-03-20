@@ -57,6 +57,8 @@ ENFERMEDADES = [
     "ansiedad generalizada",
     "lupus",
     "esclerosis múltiple",
+    "Hambre"
+    
 ]
 
 MEDICAMENTOS = [
